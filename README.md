@@ -1,0 +1,2 @@
+# browser-support.txt
+Chrome, Firefox, Edge
